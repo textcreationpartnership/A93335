@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a letter from the Generals Excellency Sir Thomas Fairfax his quarrers [sic]; concerning the armies not disbanding; the votes of the Councell of War, and the proceedings of the committees of the souldiers. With the answer to the Parliame[n]ts message of sending for the monies [b]ack again: and the proceedings of the Committee of Lords and Commons, with the army.</title>
+            <author>Smart, Roger.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93335</idno>
+            <idno type="STC">Wing S4015</idno>
+            <idno type="STC">Thomason E390_20</idno>
+            <idno type="STC">ESTC R201539</idno>
+            <idno type="EEBO-CITATION">99862038</idno>
+            <idno type="PROQUEST">99862038</idno>
+            <idno type="VID">160257</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93335)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160257)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E390[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a letter from the Generals Excellency Sir Thomas Fairfax his quarrers [sic]; concerning the armies not disbanding; the votes of the Councell of War, and the proceedings of the committees of the souldiers. With the answer to the Parliame[n]ts message of sending for the monies [b]ack again: and the proceedings of the Committee of Lords and Commons, with the army.</title>
+                  <author>Smart, Roger.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R[.] Simpson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667 [i.e. 1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: Burey this 2 of Iune, 1647. Roger Smart.</note>
+                  <note>Several characters on the title page have failed to print.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "June 3d 1647"; the second 6 in imprint date altered to "4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160257:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+            <p>A COPY OF A LETTER FROM The Generals Excellency Sir <hi>Thomas Fair fax</hi> his Quarrers; Concerning the A<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mies not disbanding; the Votes of the Councell o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> War, And the proceedings of t<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Committees o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Souldiers.</p>
+            <p>With the Anſwer to the Parliame<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts Meſſage of ſending f<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the Monies <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> again: And the proceedings of the Committee o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord and Commons with the ARMY.</p>
+            <p>
+               <add>June 30</add> 
+               <hi>London</hi> Printed for <hi>R S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mpſon,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160257:2"/>
+            <!-- PDF PAGE 42 -->
+            <pb facs="tcp:160257:2"/>
+            <!-- PDF PAGE 42 -->
+            <head>NEVVES FROM THE ARMY</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>
+               <hi>I Am much ſadded to view the preſent affaires of England. Have we not had bloud enough, yet I feare there are Horſe leaches in England, that will never be ſatisfied, till they ſee freſh</hi>
+               <pb facs="tcp:160257:3"/>
+               <!-- PDF PAGE 43 -->broyles (which God forbid) Have we oney ſheathed the ſword to draw it againe in a field of bloud? Muſt we needs run all mad<g ref="char:EOLhyphen"/>ding to ſpill more, when every family (al<g ref="char:EOLhyphen"/>moſt) is ſtill uncured of the former ſores, in one relation, or other.</p>
+            <p>Oh that a wiſe man could be found to ſave this poor (nay all theſe three ſad) gaſ<g ref="char:EOLhyphen"/>ping Kingdomes.</p>
+            <p>But why ſhould Engliſh people be ſtill diſcontented under ſo many mercies. Hath not God ſubdued the common Enemy? why then are we not ſatisfied? Hath not God given us peace, why then ſhould we go about new proyles? Hath not God delivered us from the peſtilence, why ſhould we goe a<g ref="char:EOLhyphen"/>bout to bring a plague upon our ſelves? Hath not the Lord kept us from the Famine why ſhould we ſeek to devour one another? Hath not the Lord ſpared a remuant of Us, why ſhould we that are left (to praiſe God for his mercies) bring judgments upon our heads: the Lord ſettle us in a firme and la<g ref="char:EOLhyphen"/>ſting peace.</p>
+            <p>
+               <hi>For newes thus:</hi>
+               <lb/>
+               <pb facs="tcp:160257:3"/>
+               <!-- PDF PAGE 43 -->
+ON Tueſday <hi>May</hi> 25, 1647. his Excel<g ref="char:EOLhyphen"/>lency Sir <hi>Thomas Fairfax</hi> came hither to <hi>Bury</hi> from <hi>Saffoin walden</hi> to order and ſet<g ref="char:EOLunhyphen"/>tle things, it being the chiefe place where the grand Committee of the Souldiers met, which meetings, as alſo other meetings of ſub Committees, and others, in this kind) his Excellency hath endeavoured to prevent, and field Marſhal Generall Skippon, and o<g ref="char:EOLhyphen"/>thers have laboured what they can to ſatis<g ref="char:EOLhyphen"/>fie the ſouldiers of the good affections of the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arliament towards them.</p>
+            <p>Wdneſday May 26, his Excellency made inquirey into the ſtate of things here, and after what condition the ſouldiers were in, and finding them very high upon termes &amp; pleading to be much unchtisfied, his Excel<g ref="char:EOLhyphen"/>lency conſidered with ſome of his chiefe o<g ref="char:EOLhyphen"/>fficers, what courſe to take; for the com<g ref="char:EOLhyphen"/>poſing of thoſe differances, and diſcontents, ſo much as poſſibly he could, and then ad<g ref="char:EOLhyphen"/>vice had with his Officers, his Excellency ſeriouſly conſidering the great weight of the buſineſſe reſolved to call a Councell of War of all his Officers in Commiſſion to
+<pb facs="tcp:160257:4"/>
+               <!-- PDF PAGE 44 -->conſider what to doe there.</p>
+            <p>Thurſday May 27, his Excellency ſum<g ref="char:EOLhyphen"/>moned his Officers to meet at <hi>Bury,</hi> at a Councell of Warre, and by this time the votes of the houſes were come to the Army, for their diſbanding, at the ſeverall places of their ſeverall Regiments of foot as is expreſt in the ſaid votes.</p>
+            <p>Fryday May 28, divers of the Officers came to the generalls quarters, and that night, they had notice that Commiſſioners were comming down from both houſes of Parliament, with monies and Inſtructions for their disbanding, and that they were a<g ref="char:EOLhyphen"/>bout to goe to Chelmsford, to disband the generalls owne Regiment there; but they ſtayed not, declaring much dislike to be ſo disbanded; ſaying, that they expected their Arrears to be payd; anſwer was made that care was taken to ſecure their arrears.</p>
+            <p>Saturday May 29. the Councell of Warre met and ſat here at <hi>Burey</hi> very late that day, and conſidred of all the proceedigns of the ſouldiers in general &amp; compared them with what they are commanded by both houſes
+<pb facs="tcp:160257:4"/>
+               <!-- PDF PAGE 44 -->Parliament, and the Councell of war made ſeverall votes the Copies whereof are ſent to both the Speakers of the two houſes of Lords and Commons in Parliament, with a letter from the generals Excellency adver<g ref="char:EOLhyphen"/>tiſing of the ſtate of the armyes &amp; disband<g ref="char:EOLhyphen"/>ing that ſome things therein mentioned may be taken into conſideration, before the disbanding.</p>
+            <p>For the Souldiers are generally againſt disbanding, thus pleading for vindication, monies, and other things expreſſed in their deſires, God grant that this great differance be compoſed in a ſettled, and ſure Peace.</p>
+            <p>Munday 31, the Commiſſioners from the Paliament, viz. the <hi>E.</hi> of <hi>Warwick,</hi> and the reſt of the Commiſſioners came to Chelmsford, intending according to their inſtructions, to disband the Gen. Regiment there, &amp; ſo from thence to proceed to disband Col. <hi>Hewſons,</hi> &amp;c. But the Comiſ. found not only that Re<g ref="char:EOLhyphen"/>giment, bue the whole Army in a condition not to disband, the monies was alſo brought by Capt. <hi>Blackwell.</hi>
+            </p>
+            <p>The Gen. Excellency hath reſolved to have a generall Kandezvouz of his whole Army, and to impart to them his mind, &amp;c.</p>
+            <pb facs="tcp:160257:5"/>
+            <!-- PDF PAGE 45 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:160257:5"/>
+            <!-- PDF PAGE 45 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:160257:6"/>
+            <!-- PDF PAGE 46 -->
+            <p>Yeſterday being Iune the 1, F. M. Gen. <hi>Skippon</hi> re<g ref="char:EOLhyphen"/>ceived orders to return to the Parliament and Capt. <hi>Blacſwell</hi> received order to ſend back the monies.</p>
+            <p>And this preſent wednſday Iune 2, F. M. Gener<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l <hi>Skippon</hi> is gone to London accordingly as Capt. <hi>Black<g ref="char:EOLunhyphen"/>well</hi> is ſending of the monies back againe, the ſo<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ldiers none of them (let me ſay that for them) ſo much as o<g ref="char:EOLhyphen"/>ffering to meddle with any of it, but as they let it come, ſo they let it be carried quietly back againe.</p>
+            <p>The Generall will ſudenly have a randezvouſe and every chiefe Officers (as take i) wil have inſtructions for the moving of the Regiments to Conply with the Parliament orders and disband.</p>
+            <p>God grant that theſe differences may be ſoon com<g ref="char:EOLhyphen"/>poſed and that we may all apply our ſelves to peace, and unity, &amp; lay bitterneſſe of ſpeare aſide ſo prayes,</p>
+            <closer>
+               <dateline>Burey <date>this 2 of Iune, 1647.</date>
+               </dateline>
+               <signed>Your moſt hum<g ref="char:EOLhyphen"/>ble ſervant Roger Smart.</signed>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
